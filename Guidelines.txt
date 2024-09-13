@@ -1,0 +1,20 @@
+NO DATA CLEANING IN THIS PROJECT, STRICTLY DATA ANALYSIS!!!!
+
+Objectives
+--> Understand Workforce Dynamics: Gain a deep understanding of the organizational structure, including the distribution of employees across departments and roles. 
+
+--> Salary Trends Analysis: Investigate salary patterns, identifying average salaries, salary ranges, and potential correlations with other factors. 
+
+--> Employee Tenure and Movement: Examine employee tenure, analyze job history records, and explore any notable patterns in career progression or departmental changes.
+
+
+
+Key Questions
+1. Who are the top 10 earners in the organization?
+2. How are the employees distributed in the departments? What is the employee count in each department?
+3. What is the average salary by department?
+4. Show employees with multiple salaries.
+5. What is the employee count by job title?
+6. What is the average salary by job title?
+7. How has the average salary changed over time, and are there any notable trends?
+
